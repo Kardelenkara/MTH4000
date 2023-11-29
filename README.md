@@ -1,2 +1,4 @@
 # MTH4000
-Created for assesment
+Repository to test code related to MTH4000 Programming in Python I module at Queen Mary University of London
+
+Hello There1
